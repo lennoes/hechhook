@@ -1,0 +1,46 @@
+h1,
+
+h4,
+h3,
+h5 {
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.font1 {
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: azure;
+}
+.font2 {
+    font-family: 'Lobster', cursive;
+    font-size: 4rem;
+}
+
+.font3 {
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: azure;
+    font-size: 3rem;
+}
+
+.font4 {
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+.font5 {
+
+    
+    font-family: 'Righteous', cursive;
+   
+    color: black;
+    font-size: 3rem;
+}
+.text-align {
+
+    text-align: center;
+}
